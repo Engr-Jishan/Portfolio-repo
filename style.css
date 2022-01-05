@@ -10,6 +10,7 @@
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .flow-width{
     width: 50%;
@@ -31,4 +32,31 @@ section{
     font-size: 30px;
     font-family: Verdana;
     text-align: center;
+}
+.few-flow-width-one{
+    background-color: #a5d0da;
+    padding: 3%;
+    font-family: verdana;
+    width: 300px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 15px;
+}
+.few-flow-width-two{
+    background-color: #dfc7d6;
+    padding: 3%;
+    font-family: verdana;
+    width: 300px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 15px; 
+}
+.few-flow-width-three{
+    background-color: #cec8b6;
+    padding: 3%;
+    font-family: verdana;
+    width: 300px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 15px;
 }
